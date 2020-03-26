@@ -8,7 +8,7 @@ Microservice for storing queries, user preferences and stuff
 
 ## Setup:
 
-(will wary based on the API deployment strategy) In minimal, you need to have a database and OAUTH_CLIENT_TOKEN
+(will vary based on the API deployment strategy) In minimal, you need to have a database and OAUTH_CLIENT_TOKEN
 
   * create database
      create database vault;
